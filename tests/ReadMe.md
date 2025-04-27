@@ -1,1 +1,1 @@
-The following test file can be found [here](https://gitlab.jyu.fi/obsosoft/gravity-unity/-/blob/3b9d7f86c3fbc7b820391e196b2fc6bf85a4a386/Assets/Meshes/Armature_Walk%20(1).anim). There is no license in that repo, so it may be best for me to remove the file once I get this plugin to a somewhat usable state.
+These are all different test files. Some are fbx files. A few anim clips and the audio file came with the anim clip. I will try to import this anim clip into belnder without issues. Then try a few more teststhat I have
