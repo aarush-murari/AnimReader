@@ -8,7 +8,7 @@ But after coming back to this project and finding out that Unity itself uses a c
 
 ## License
 
-All files in this current repository except for the `Armature_walk.anim` file located in the `tests` subdirectory fall under the GNU GPL v2.
+All files in this current repository except for the files located in the `tests` subdirectory fall under the GNU GPL v2.
 
 ## TODO:
 1. ~~Import yaml and parse in python at fast speeds (or implement a progress bar when parsing yaml).~~ No need as explained above.
